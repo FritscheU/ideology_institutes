@@ -4,3 +4,5 @@ The repository contains replication code and dataset for the paper:  [Sharks and
 * `ideology_paper_code.R` contains the replication code for all figures and tables presented in the paper.
 * `mon_fisc_corpus.Rdata` contains the dataset
 * `wordshoal_modif.R` contains a modified function to perform robustness checks
+
+A separate replication code file for further robustness checks and semantic network analysis will by uploaded soon here.
