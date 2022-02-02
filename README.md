@@ -1,4 +1,4 @@
-# Repository for Diaf et al. (2022)
+# Repository Diaf et al. (2022): Sharks and minnows...
 The repository contains replication code and dataset for the paper:  [Sharks and minnows in a shoal of words: Measuring latent ideological positions of German economic research institutes based on text mining techniques](https://doi.org/10.1016/j.ejpoleco.2022.102179) by Sami Diaf, Jörg Döpke, Ulrich Fritsche and Ida Rockenbach.
 
 * `ideology_paper_code.R` contains the replication code for all figures and tables presented in the paper.
